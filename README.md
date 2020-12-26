@@ -2,9 +2,13 @@
 
 ## Project Goals
 
-1.
-1.
-1.
+1. Todos must be stored as objects, using factories/classes/constructors to create them.
+1. Should include a title, description, dueDate, priority, notes, and checklist.
+1. List should include projects to encompass todos, with a default one to store default todos.
+1. Separate application logic from DOM-related stuff in different modules.
+1. User interface should be able to view all projects, view all todos in each project (title and dueDate), expand a single todo to see/edit its details, and delete a todo.
+1. Use localStorage to save user projects between sessions.
+1. Use outside libraries with webpack
 
 ## Issues
 
