@@ -2,8 +2,8 @@
 
 ## Project Goals
 
-1. Sort out simple HTML for a header with title, nav with projects and todos, and simple footer.
-1. Style the HTML.
+1. ~~Sort out simple HTML for a header with title, nav with projects and todos, and simple footer.~~
+1. ~~Style the HTML.~~
 1. Todos must be stored as objects, using factories/classes/constructors to create them.
 1. Should include a title, description, dueDate, priority, notes, and checklist.
 1. List should include projects to encompass todos, with a default one to store default todos.
