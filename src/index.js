@@ -7,4 +7,8 @@ function consoleMessage() {
     console.log('Console Message');
 }
 
-addListeners();
+function init() {
+    addListeners();
+}
+
+init();
